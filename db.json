@@ -1,5 +1,5 @@
 {
-  user_information: [
+  "user_information": [
   {
     "customer_name": "Linnie Iacovolo",
     "avatar": "http://dummyimage.com/101x100.png/5fa2dd/ffffff",
@@ -79,6 +79,5 @@
     "phone": "1664181337",
     "npwp": 1000000000,
     "address": "6 Claremont Junction"
-  }
-]
+  }]
 }
