@@ -1,0 +1,84 @@
+{
+  user_information: [
+  {
+    "customer_name": "Linnie Iacovolo",
+    "avatar": "http://dummyimage.com/101x100.png/5fa2dd/ffffff",
+    "email": "liacovolo0@chronoengine.com",
+    "phone": "4098802262",
+    "npwp": 1000000000,
+    "address": "56212 Novick Street"
+  },
+  {
+    "customer_name": "Vonnie Sewall",
+    "avatar": "http://dummyimage.com/225x100.png/cc0000/ffffff",
+    "email": "vsewall1@buzzfeed.com",
+    "phone": "2493145549",
+    "npwp": 1000000000,
+    "address": "088 Nevada Junction"
+  },
+  {
+    "customer_name": "Rip Bednell",
+    "avatar": "http://dummyimage.com/195x100.png/ff4444/ffffff",
+    "email": "rbednell2@nature.com",
+    "phone": "3633583378",
+    "npwp": 1000000000,
+    "address": "09 Northridge Avenue"
+  },
+  {
+    "customer_name": "Luelle Gilmour",
+    "avatar": "http://dummyimage.com/121x100.png/ff4444/ffffff",
+    "email": "lgilmour3@independent.co.uk",
+    "phone": "4889033087",
+    "npwp": 1000000000,
+    "address": "9 Spenser Terrace"
+  },
+  {
+    "customer_name": "Laraine Greschik",
+    "avatar": "http://dummyimage.com/168x100.png/5fa2dd/ffffff",
+    "email": "lgreschik4@bandcamp.com",
+    "phone": "9506166738",
+    "npwp": 1000000000,
+    "address": "4725 David Junction"
+  },
+  {
+    "customer_name": "Antone Garrould",
+    "avatar": "http://dummyimage.com/132x100.png/5fa2dd/ffffff",
+    "email": "agarrould5@marketwatch.com",
+    "phone": "2179952911",
+    "npwp": 1000000000,
+    "address": "80 Mendota Crossing"
+  },
+  {
+    "customer_name": "Lyssa Ashlin",
+    "avatar": "http://dummyimage.com/183x100.png/dddddd/000000",
+    "email": "lashlin6@wix.com",
+    "phone": "9402239192",
+    "npwp": 1000000000,
+    "address": "7 Commercial Avenue"
+  },
+  {
+    "customer_name": "Barbra Bernardt",
+    "avatar": "http://dummyimage.com/212x100.png/cc0000/ffffff",
+    "email": "bbernardt7@shinystat.com",
+    "phone": "9913014289",
+    "npwp": 1000000000,
+    "address": "7 Novick Circle"
+  },
+  {
+    "customer_name": "Hamlen McGrane",
+    "avatar": "http://dummyimage.com/181x100.png/5fa2dd/ffffff",
+    "email": "hmcgrane8@privacy.gov.au",
+    "phone": "5784595716",
+    "npwp": 1000000000,
+    "address": "4335 Arapahoe Pass"
+  },
+  {
+    "customer_name": "Sunshine Simm",
+    "avatar": "http://dummyimage.com/226x100.png/cc0000/ffffff",
+    "email": "ssimm9@ow.ly",
+    "phone": "1664181337",
+    "npwp": 1000000000,
+    "address": "6 Claremont Junction"
+  }
+]
+}
